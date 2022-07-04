@@ -1,0 +1,14 @@
+[0m2021.12.19 20:31:48 INFO  Started: Metals version 0.10.9 in workspace '/home/mahmoud-essam/Documents/python_design_patterns.py' for client Visual Studio Code 1.63.1.[0m
+[0m2021.12.19 20:31:51 INFO  time: initialize in 3.5s[0m
+[0m2021.12.19 20:31:52 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.19 20:31:52 WARN  no build tool detected in workspace '/home/mahmoud-essam/Documents/python_design_patterns.py'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.19 20:44:30 INFO  shutting down Metals[0m
+[0m2021.12.24 13:24:25 INFO  Started: Metals version 0.10.9 in workspace '/home/mahmoud-essam/Documents/python_design_patterns.py' for client Visual Studio Code 1.63.2.[0m
+[0m2021.12.24 13:24:26 INFO  time: initialize in 1.2s[0m
+[0m2021.12.24 13:24:27 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.24 13:24:27 WARN  no build tool detected in workspace '/home/mahmoud-essam/Documents/python_design_patterns.py'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.24 13:24:57 INFO  [0m
+[0m2021.12.24 13:24:57 INFO  Template applied in /home/mahmoud-essam/Documents/HelloWorld/./hello-world[0m
+[0m2021.12.24 13:24:57 INFO  [0m
+[0m2021.12.24 13:24:57 INFO  time: ran 'giter8.Giter8' in 7.61s[0m
+[0m2021.12.24 13:25:09 INFO  shutting down Metals[0m
